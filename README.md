@@ -1,2 +1,6 @@
 # hello-world
-I am learning how to use this platform so this is my first repocitory
+
+Hi, everyone!
+
+I am learning how to use this platform, 
+i like programming and I'm studying Mechatronics and am into a lot stuff n_n
